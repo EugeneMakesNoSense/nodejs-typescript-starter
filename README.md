@@ -1,3 +1,6 @@
 # nodejs-typescript-starter
 
-Template
+* Typescript
+* ESLint
+* Prettier
+* Jest
