@@ -1,6 +1,4 @@
-logs
 coverage
-node_modules
 dist
-.env
+node_modules
 package-lock.json
