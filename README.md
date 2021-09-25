@@ -1,6 +1,6 @@
 # nodejs-typescript-starter
 
-* Typescript
-* ESLint
-* Prettier
-* Jest
+- Typescript
+- ESLint
+- Prettier
+- Jest
