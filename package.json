@@ -11,17 +11,9 @@
     "test": "jest",
     "prettier": "npx prettier --write ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EugeneMakesNoSense/nodejs-typescript-starter.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EugeneMakesNoSense/nodejs-typescript-starter/issues"
-  },
-  "homepage": "https://github.com/EugeneMakesNoSense/nodejs-typescript-starter#readme",
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "@types/node": "^16.9.6",
