@@ -10,4 +10,4 @@
 
 **To get rid out of Jest** run ```npm uninstall jest @types/jest ts-jest```, delete *config file* and *test npm script*
 
-**To expose port for Docker container** add *EXPOSE {YOUR_PORT}* to Dockerfile *Dockerfile*
+**To expose port for Docker container** add *EXPOSE {YOUR_PORT}* to *Dockerfile*
